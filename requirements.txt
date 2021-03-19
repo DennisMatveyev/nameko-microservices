@@ -10,7 +10,7 @@ Flask==0.12.2
 greenlet==0.4.13
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jsonschema==2.6.0
 kombu==3.0.37
 MarkupSafe==1.0
